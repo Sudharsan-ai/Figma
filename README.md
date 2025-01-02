@@ -209,7 +209,12 @@ color: black;
 ```
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/6a86a69a-9267-43be-ac77-23b245b6e2f8)
+
+
 ![image](https://github.com/user-attachments/assets/9f81751c-daa4-440e-82f9-32a5ff11956c)
+
 
 
 ## RESULT:
